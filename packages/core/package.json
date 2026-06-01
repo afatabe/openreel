@@ -30,7 +30,7 @@
     "assemblyscript": "^0.27.0",
     "fast-check": "^3.19.0",
     "typescript": "^5.4.5",
-    "vitest": "^1.6.0"
+    "vitest": "^4.1.0"
   },
   "dependencies": {
     "@ffmpeg/ffmpeg": "^0.12.15",
@@ -40,6 +40,6 @@
     "idb-keyval": "^6.2.2",
     "immer": "^11.0.1",
     "mediabunny": "^1.25.3",
-    "uuid": "^13.0.0"
+    "uuid": "^14.0.0"
   }
 }
