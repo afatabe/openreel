@@ -98,8 +98,8 @@ Visit **[openreel.video](https://openreel.video)** to start editing immediately.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Augani/openreel-video.git
-cd openreel-video
+git clone https://github.com/afatabe/openreel.git
+cd openreel
 
 # Install dependencies (requires Node.js 18+)
 pnpm install
@@ -215,7 +215,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 **Development workflow:**
 ```bash
 # Fork and clone
-git clone https://github.com/Augani/openreel-video.git
+git clone https://github.com/afatabe/openreel.git
 
 # Create feature branch
 git checkout -b feat/your-feature
